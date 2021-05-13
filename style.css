@@ -54,7 +54,7 @@ body{
 
 }
 .instagram-logo{
-    height: 3rem;
+    height: 3.5rem;
 }
 .profile-photo{
     display: flex;
@@ -89,7 +89,7 @@ body{
     justify-content: center;
     width: 100%;
     padding: 1.3rem 0;
-    font-weight: bold;
+    font-weight: bold;  
 }
 .download{
     display: flex;
